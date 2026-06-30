@@ -1,9 +1,14 @@
 {
   "dependencies": {
+<<<<<<< HEAD
+    "@tailwindcss/cli": "^4.3.2",
+    "tailwindcss": "^4.3.2"
+=======
     "@tailwindcss/cli": "^4.3.1",
     "tailwindcss": "^4.3.1"
   },
   "scripts": {
     "start": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+>>>>>>> 6d6c4f38bd61a15130fe06ea9b00832141d654b3
   }
 }
